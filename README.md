@@ -38,7 +38,7 @@
 
 **開發者：** Öreg macska
 
-**改版日期：** 2026/11/14
+**首發日期：** 2026/11/14
 
 ---
 
@@ -82,7 +82,7 @@ Center Upper and Lower Paddles: D-Pad ↑／△
 
 **Developer:** Öreg macska
 
-**Revision Date:** 2026/11/14
+**Initial Release Date:** 2026/11/14
 
 ---
 
@@ -126,7 +126,7 @@ Center Upper and Lower Paddles: D-Pad ↑／△
 
 **開発者：** Öreg macska
 
-**改訂日：** 2026/11/14
+**初公開日：** 2026/11/14
 
 ---
 
@@ -170,7 +170,7 @@ Középső pálya felső és alsó ütője: Iránygomb ↑／△
 
 **Fejlesztő:** Öreg macska
 
-**Módosítás dátuma:** 2026/11/14
+**Első megjelenés dátuma:** 2026/11/14
 
 ---
 
@@ -214,4 +214,4 @@ Górna i dolna paletka środkowego boiska: Krzyżak kierunkowy ↑／△
 
 **Twórca:** Öreg macska
 
-**Data aktualizacji:** 2026/11/14
+**Data pierwszego wydania:** 2026/11/14
