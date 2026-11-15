@@ -34,7 +34,7 @@
 
 右球場：R3
 
-中央上下雙層球板：十字鍵 ↑／→／↓ 或 △／□／×
+中央上下雙層球板：十字鍵 ↓ 或 ×
 
 **開發者：** Öreg macska
 
@@ -78,7 +78,7 @@ Left Court: L3
 
 Right Court: R3
 
-Center Upper and Lower Paddles: D-Pad ↑／→／↓ or △／□／×
+Center Upper and Lower Paddles: D-Pad ↓ or ×
 
 **Developer:** Öreg macska
 
@@ -122,7 +122,7 @@ Center Upper and Lower Paddles: D-Pad ↑／→／↓ or △／□／×
 
 右コート：R3
 
-中央上下 2 段パドル：方向キー ↑／→／↓ または △／□／×
+中央上下 2 段パドル：十字キー ↓ または ×
 
 **開発者：** Öreg macska
 
@@ -166,7 +166,7 @@ Bal pálya: L3
 
 Jobb pálya: R3
 
-Középső pálya felső és alsó ütője: Iránygombok ↑／→／↓ vagy a △／□／× gombok
+Középső pálya felső és alsó ütője: Iránygomb ↓ vagy × gomb
 
 **Fejlesztő:** Öreg macska
 
@@ -210,7 +210,7 @@ Lewe boisko: L3
 
 Prawe boisko: R3
 
-Górna i dolna paletka środkowego boiska: Krzyżak kierunkowy ↑／→／↓ lub przyciski △／□／×
+Górna i dolna paletka środkowego boiska: Krzyżak kierunkowy ↓ lub przycisk ×
 
 **Twórca:** Öreg macska
 
